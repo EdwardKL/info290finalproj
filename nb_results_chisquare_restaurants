@@ -1,0 +1,3549 @@
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+matched: label: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 1
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+matched: label: 3
+matched: label: 4
+matched: label: 4
+matched: label: 4
+matched: label: 3
+matched: label: 1
+mismatched: label: 3 was supposed to be: 5
+matched: label: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+matched: label: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+matched: label: 5
+matched: label: 4
+mismatched: label: 2 was supposed to be: 5
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 2
+matched: label: 4
+matched: label: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 1
+mismatched: label: 5 was supposed to be: 2
+matched: label: 3
+mismatched: label: 2 was supposed to be: 1
+matched: label: 4
+mismatched: label: 3 was supposed to be: 2
+matched: label: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 2
+matched: label: 3
+matched: label: 3
+matched: label: 4
+matched: label: 4
+mismatched: label: 4 was supposed to be: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 2
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 4
+matched: label: 3
+mismatched: label: 2 was supposed to be: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 4
+matched: label: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+matched: label: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+matched: label: 4
+matched: label: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 3
+matched: label: 4
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+matched: label: 3
+matched: label: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 4
+matched: label: 5
+matched: label: 4
+matched: label: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 4
+matched: label: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 1 was supposed to be: 2
+matched: label: 3
+matched: label: 4
+matched: label: 3
+matched: label: 3
+matched: label: 5
+matched: label: 3
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 3
+mismatched: label: 1 was supposed to be: 5
+matched: label: 1
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 1
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 1
+matched: label: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 5
+matched: label: 5
+matched: label: 3
+mismatched: label: 1 was supposed to be: 3
+matched: label: 1
+mismatched: label: 4 was supposed to be: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+matched: label: 3
+matched: label: 5
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 5
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+matched: label: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 3
+matched: label: 1
+matched: label: 2
+matched: label: 1
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 5
+matched: label: 5
+matched: label: 3
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 1
+matched: label: 5
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 3
+matched: label: 3
+mismatched: label: 5 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 2
+matched: label: 3
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+matched: label: 3
+matched: label: 3
+mismatched: label: 2 was supposed to be: 1
+matched: label: 3
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 3
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 3
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+matched: label: 2
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+matched: label: 1
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 5 was supposed to be: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 1
+summary of results for: gram: 1 size: 100
+matches = 195
+mismatches = 305
+guesses = {1: 99, 2: 60, 3: 170, 4: 107, 5: 64}
+====================
+====================
+====================
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+matched: label: 4
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 2
+matched: label: 3
+matched: label: 4
+matched: label: 4
+matched: label: 4
+mismatched: label: 2 was supposed to be: 3
+matched: label: 1
+mismatched: label: 3 was supposed to be: 5
+matched: label: 4
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 2
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+matched: label: 3
+matched: label: 5
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+matched: label: 5
+matched: label: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 2
+matched: label: 5
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 5
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+matched: label: 2
+matched: label: 4
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+matched: label: 4
+matched: label: 1
+matched: label: 2
+matched: label: 3
+matched: label: 1
+matched: label: 4
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+matched: label: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 2
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 2
+matched: label: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+matched: label: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+mismatched: label: 5 was supposed to be: 4
+matched: label: 1
+matched: label: 4
+mismatched: label: 1 was supposed to be: 4
+matched: label: 3
+matched: label: 5
+matched: label: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+matched: label: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+matched: label: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 4
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 4
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+matched: label: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+matched: label: 4
+matched: label: 2
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+matched: label: 4
+matched: label: 3
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+matched: label: 2
+matched: label: 3
+matched: label: 4
+matched: label: 3
+matched: label: 3
+matched: label: 5
+matched: label: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+matched: label: 1
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 1
+matched: label: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 1
+matched: label: 1
+mismatched: label: 5 was supposed to be: 4
+matched: label: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+matched: label: 3
+matched: label: 1
+mismatched: label: 5 was supposed to be: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 5
+matched: label: 5
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+mismatched: label: 4 was supposed to be: 5
+matched: label: 2
+matched: label: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 5
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 1
+matched: label: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+matched: label: 2
+mismatched: label: 4 was supposed to be: 3
+matched: label: 1
+matched: label: 2
+matched: label: 3
+matched: label: 3
+matched: label: 1
+matched: label: 3
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 3
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 5 was supposed to be: 3
+matched: label: 3
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 4 was supposed to be: 1
+matched: label: 2
+matched: label: 1
+matched: label: 1
+matched: label: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 2
+matched: label: 2
+matched: label: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 2
+matched: label: 1
+matched: label: 1
+matched: label: 2
+matched: label: 2
+matched: label: 1
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 2
+matched: label: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+mismatched: label: 5 was supposed to be: 1
+matched: label: 2
+matched: label: 2
+mismatched: label: 5 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+summary of results for: gram: 1 size: 1000
+matches = 235
+mismatches = 265
+guesses = {1: 109, 2: 96, 3: 125, 4: 80, 5: 90}
+====================
+====================
+====================
+matched: label: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+matched: label: 4
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+matched: label: 4
+matched: label: 4
+matched: label: 4
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+mismatched: label: 2 was supposed to be: 3
+matched: label: 1
+mismatched: label: 1 was supposed to be: 5
+matched: label: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+matched: label: 4
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+matched: label: 4
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 3
+matched: label: 5
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+matched: label: 5
+matched: label: 4
+matched: label: 5
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+matched: label: 4
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 2 was supposed to be: 1
+matched: label: 3
+matched: label: 5
+matched: label: 5
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 5
+matched: label: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+matched: label: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 5
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+matched: label: 4
+matched: label: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 1
+matched: label: 2
+matched: label: 3
+matched: label: 1
+matched: label: 4
+mismatched: label: 4 was supposed to be: 2
+matched: label: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+matched: label: 3
+matched: label: 3
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 1
+matched: label: 5
+matched: label: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+matched: label: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+matched: label: 4
+matched: label: 1
+matched: label: 4
+mismatched: label: 1 was supposed to be: 4
+matched: label: 3
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 4
+matched: label: 4
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 4
+matched: label: 5
+matched: label: 4
+matched: label: 4
+matched: label: 5
+matched: label: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+matched: label: 4
+matched: label: 2
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+matched: label: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+matched: label: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+matched: label: 3
+matched: label: 5
+matched: label: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+matched: label: 5
+matched: label: 3
+matched: label: 3
+matched: label: 5
+matched: label: 1
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+matched: label: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+matched: label: 4
+matched: label: 1
+matched: label: 3
+matched: label: 4
+matched: label: 1
+matched: label: 1
+mismatched: label: 5 was supposed to be: 4
+matched: label: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+matched: label: 3
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+matched: label: 5
+matched: label: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+matched: label: 5
+matched: label: 2
+matched: label: 5
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+matched: label: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 3
+matched: label: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+matched: label: 2
+matched: label: 2
+matched: label: 5
+matched: label: 3
+mismatched: label: 1 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+matched: label: 3
+matched: label: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+matched: label: 1
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 1
+matched: label: 5
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+matched: label: 3
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 2
+matched: label: 5
+mismatched: label: 1 was supposed to be: 2
+matched: label: 3
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+matched: label: 3
+matched: label: 3
+matched: label: 1
+matched: label: 3
+matched: label: 1
+matched: label: 1
+matched: label: 3
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 3
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+matched: label: 1
+matched: label: 2
+matched: label: 1
+mismatched: label: 5 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+mismatched: label: 5 was supposed to be: 2
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+mismatched: label: 5 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 2
+matched: label: 2
+matched: label: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 2
+matched: label: 1
+matched: label: 1
+matched: label: 2
+matched: label: 2
+matched: label: 1
+matched: label: 2
+matched: label: 2
+mismatched: label: 5 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+matched: label: 2
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+summary of results for: gram: 1 size: 10000
+matches = 266
+mismatches = 234
+guesses = {1: 107, 2: 82, 3: 109, 4: 93, 5: 109}
+====================
+====================
+====================
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+matched: label: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 1
+mismatched: label: 3 was supposed to be: 5
+matched: label: 4
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 3
+matched: label: 1
+mismatched: label: 3 was supposed to be: 5
+matched: label: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+matched: label: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 4
+mismatched: label: 1 was supposed to be: 4
+matched: label: 4
+matched: label: 3
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 3
+matched: label: 5
+mismatched: label: 1 was supposed to be: 3
+matched: label: 3
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 1
+matched: label: 5
+matched: label: 4
+matched: label: 5
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 4
+matched: label: 3
+matched: label: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 1
+matched: label: 3
+mismatched: label: 1 was supposed to be: 5
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+matched: label: 2
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 1
+mismatched: label: 5 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 1
+matched: label: 4
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 4 was supposed to be: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 2
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+matched: label: 5
+mismatched: label: 5 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+matched: label: 2
+matched: label: 4
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+matched: label: 4
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+matched: label: 5
+matched: label: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+matched: label: 4
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+matched: label: 3
+matched: label: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+matched: label: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+matched: label: 3
+matched: label: 5
+matched: label: 3
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+mismatched: label: 1 was supposed to be: 3
+matched: label: 3
+mismatched: label: 1 was supposed to be: 5
+matched: label: 1
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+matched: label: 1
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 1
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+matched: label: 5
+matched: label: 3
+mismatched: label: 1 was supposed to be: 3
+matched: label: 1
+mismatched: label: 4 was supposed to be: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 5
+matched: label: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 5
+matched: label: 3
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+matched: label: 2
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 5
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+matched: label: 3
+matched: label: 5
+matched: label: 3
+matched: label: 5
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 5
+matched: label: 5
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 5
+matched: label: 3
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 1
+matched: label: 5
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+matched: label: 3
+matched: label: 2
+mismatched: label: 3 was supposed to be: 5
+matched: label: 2
+matched: label: 3
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 1
+matched: label: 3
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 3
+matched: label: 1
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 3
+matched: label: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+matched: label: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 2
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+matched: label: 2
+mismatched: label: 5 was supposed to be: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 5 was supposed to be: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+summary of results for: gram: 2 size: 100
+matches = 191
+mismatches = 309
+guesses = {1: 85, 2: 66, 3: 181, 4: 76, 5: 92}
+====================
+====================
+====================
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+matched: label: 3
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 2
+mismatched: label: 4 was supposed to be: 2
+matched: label: 3
+matched: label: 4
+matched: label: 4
+matched: label: 4
+mismatched: label: 2 was supposed to be: 3
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 5
+matched: label: 4
+matched: label: 3
+matched: label: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 2
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 3
+matched: label: 5
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+matched: label: 5
+matched: label: 4
+mismatched: label: 2 was supposed to be: 5
+matched: label: 5
+matched: label: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+matched: label: 2
+matched: label: 2
+mismatched: label: 2 was supposed to be: 4
+matched: label: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 5
+matched: label: 4
+matched: label: 5
+matched: label: 2
+matched: label: 5
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+matched: label: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 5
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+matched: label: 4
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 4
+matched: label: 1
+matched: label: 2
+matched: label: 3
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 4
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 2
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 2
+matched: label: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+matched: label: 5
+matched: label: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+matched: label: 2
+matched: label: 5
+mismatched: label: 5 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 1
+matched: label: 4
+mismatched: label: 1 was supposed to be: 4
+matched: label: 3
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+matched: label: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+matched: label: 4
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 4
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 4
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+matched: label: 5
+matched: label: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+matched: label: 4
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+matched: label: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 1 was supposed to be: 2
+matched: label: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+matched: label: 3
+matched: label: 5
+matched: label: 3
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+matched: label: 1
+matched: label: 4
+matched: label: 3
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+matched: label: 1
+mismatched: label: 4 was supposed to be: 3
+matched: label: 4
+matched: label: 1
+matched: label: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 1
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+matched: label: 2
+matched: label: 4
+matched: label: 5
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 5
+matched: label: 5
+matched: label: 3
+matched: label: 3
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 5
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 5 was supposed to be: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+matched: label: 5
+matched: label: 2
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+matched: label: 2
+matched: label: 2
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+matched: label: 3
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 5
+matched: label: 2
+mismatched: label: 4 was supposed to be: 3
+matched: label: 1
+matched: label: 2
+matched: label: 1
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+mismatched: label: 5 was supposed to be: 1
+matched: label: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+matched: label: 1
+matched: label: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 2
+matched: label: 3
+matched: label: 1
+matched: label: 2
+matched: label: 3
+matched: label: 3
+matched: label: 1
+matched: label: 3
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 3
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 5 was supposed to be: 3
+matched: label: 3
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+matched: label: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+matched: label: 1
+matched: label: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+mismatched: label: 5 was supposed to be: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+matched: label: 2
+matched: label: 1
+matched: label: 1
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+matched: label: 2
+matched: label: 2
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+mismatched: label: 5 was supposed to be: 1
+matched: label: 2
+matched: label: 2
+mismatched: label: 5 was supposed to be: 2
+matched: label: 2
+mismatched: label: 4 was supposed to be: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 5 was supposed to be: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+summary of results for: gram: 2 size: 1000
+matches = 248
+mismatches = 252
+guesses = {1: 104, 2: 106, 3: 118, 4: 80, 5: 92}
+====================
+====================
+====================
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 2
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+mismatched: label: 3 was supposed to be: 1
+matched: label: 4
+matched: label: 4
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 2
+matched: label: 3
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+matched: label: 5
+mismatched: label: 1 was supposed to be: 3
+matched: label: 2
+matched: label: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 5
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 3
+matched: label: 3
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 4
+matched: label: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+matched: label: 1
+matched: label: 3
+mismatched: label: 4 was supposed to be: 2
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+matched: label: 1
+matched: label: 3
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+mismatched: label: 2 was supposed to be: 5
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 2
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+mismatched: label: 5 was supposed to be: 3
+matched: label: 3
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 4
+matched: label: 2
+mismatched: label: 1 was supposed to be: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 2 was supposed to be: 5
+matched: label: 4
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 5
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 2
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 4
+matched: label: 5
+matched: label: 2
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+matched: label: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 2
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+matched: label: 3
+matched: label: 4
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 5
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 5
+matched: label: 4
+matched: label: 5
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+matched: label: 4
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 2
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 2
+matched: label: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 4
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 1
+matched: label: 4
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 2 was supposed to be: 1
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 5
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 3
+mismatched: label: 5 was supposed to be: 3
+matched: label: 1
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+matched: label: 5
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+matched: label: 5
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+matched: label: 5
+matched: label: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 2
+matched: label: 3
+matched: label: 3
+matched: label: 3
+matched: label: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 3
+matched: label: 5
+matched: label: 3
+matched: label: 1
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+matched: label: 3
+matched: label: 5
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 3
+matched: label: 1
+mismatched: label: 3 was supposed to be: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+mismatched: label: 2 was supposed to be: 5
+matched: label: 1
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+matched: label: 2
+matched: label: 5
+matched: label: 5
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+matched: label: 2
+matched: label: 2
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 2
+matched: label: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 3
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 3
+mismatched: label: 4 was supposed to be: 1
+matched: label: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+matched: label: 2
+matched: label: 1
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 4 was supposed to be: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+mismatched: label: 5 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+summary of results for: gram: 3 size: 100
+matches = 174
+mismatches = 326
+guesses = {1: 86, 2: 74, 3: 172, 4: 94, 5: 74}
+====================
+====================
+====================
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+matched: label: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+matched: label: 3
+matched: label: 2
+matched: label: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 2
+matched: label: 4
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 3
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+matched: label: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 5
+matched: label: 5
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 3
+matched: label: 4
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+matched: label: 4
+mismatched: label: 2 was supposed to be: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+mismatched: label: 2 was supposed to be: 4
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+matched: label: 4
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+matched: label: 1
+matched: label: 2
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+matched: label: 1
+mismatched: label: 1 was supposed to be: 3
+matched: label: 4
+mismatched: label: 1 was supposed to be: 2
+matched: label: 4
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+matched: label: 2
+matched: label: 5
+mismatched: label: 2 was supposed to be: 5
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 5
+matched: label: 2
+matched: label: 4
+matched: label: 4
+mismatched: label: 1 was supposed to be: 2
+matched: label: 2
+mismatched: label: 4 was supposed to be: 5
+matched: label: 4
+matched: label: 3
+mismatched: label: 4 was supposed to be: 3
+matched: label: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+matched: label: 5
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 4
+matched: label: 4
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 2
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+matched: label: 5
+matched: label: 5
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 3
+matched: label: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 2
+matched: label: 2
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+matched: label: 5
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 4
+matched: label: 4
+mismatched: label: 1 was supposed to be: 2
+matched: label: 4
+matched: label: 4
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 4 was supposed to be: 5
+matched: label: 2
+matched: label: 3
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 4
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+matched: label: 2
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 4
+matched: label: 3
+matched: label: 5
+matched: label: 5
+matched: label: 5
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+matched: label: 4
+matched: label: 3
+matched: label: 3
+matched: label: 4
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 2
+mismatched: label: 4 was supposed to be: 5
+matched: label: 2
+matched: label: 2
+matched: label: 1
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 5
+matched: label: 4
+matched: label: 5
+mismatched: label: 3 was supposed to be: 5
+matched: label: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 5 was supposed to be: 3
+matched: label: 4
+mismatched: label: 5 was supposed to be: 3
+matched: label: 3
+matched: label: 4
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 5
+matched: label: 2
+matched: label: 3
+matched: label: 3
+mismatched: label: 5 was supposed to be: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 4
+matched: label: 2
+mismatched: label: 5 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+mismatched: label: 2 was supposed to be: 4
+matched: label: 3
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 5
+matched: label: 3
+matched: label: 4
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+matched: label: 1
+mismatched: label: 3 was supposed to be: 4
+matched: label: 1
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+matched: label: 4
+mismatched: label: 3 was supposed to be: 4
+mismatched: label: 2 was supposed to be: 3
+matched: label: 1
+matched: label: 2
+matched: label: 5
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+matched: label: 5
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 5
+matched: label: 2
+matched: label: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 1
+matched: label: 3
+matched: label: 2
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 1
+matched: label: 2
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 3 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+matched: label: 2
+matched: label: 3
+mismatched: label: 1 was supposed to be: 3
+matched: label: 1
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 4 was supposed to be: 5
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 3
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 5
+matched: label: 5
+matched: label: 1
+matched: label: 5
+mismatched: label: 1 was supposed to be: 5
+matched: label: 5
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+matched: label: 3
+matched: label: 5
+matched: label: 3
+matched: label: 5
+mismatched: label: 4 was supposed to be: 2
+matched: label: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+matched: label: 3
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 5 was supposed to be: 3
+matched: label: 1
+mismatched: label: 5 was supposed to be: 3
+matched: label: 3
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 5
+matched: label: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 3
+matched: label: 1
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+matched: label: 5
+mismatched: label: 2 was supposed to be: 5
+mismatched: label: 2 was supposed to be: 5
+matched: label: 2
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+mismatched: label: 3 was supposed to be: 5
+matched: label: 1
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+matched: label: 2
+matched: label: 5
+matched: label: 5
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 3
+matched: label: 5
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 4 was supposed to be: 5
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 3
+matched: label: 5
+mismatched: label: 5 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 2 was supposed to be: 3
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 2 was supposed to be: 3
+matched: label: 3
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 3
+mismatched: label: 4 was supposed to be: 3
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 3
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+matched: label: 2
+matched: label: 1
+matched: label: 1
+matched: label: 2
+matched: label: 1
+matched: label: 1
+matched: label: 2
+matched: label: 2
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+mismatched: label: 4 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 2
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 4 was supposed to be: 2
+matched: label: 2
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 5 was supposed to be: 2
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 2
+matched: label: 2
+mismatched: label: 3 was supposed to be: 2
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 2
+matched: label: 2
+mismatched: label: 1 was supposed to be: 2
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 1 was supposed to be: 2
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 4 was supposed to be: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+matched: label: 1
+matched: label: 1
+mismatched: label: 3 was supposed to be: 1
+mismatched: label: 3 was supposed to be: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+mismatched: label: 2 was supposed to be: 1
+matched: label: 1
+summary of results for: gram: 3 size: 1000
+matches = 231
+mismatches = 269
+guesses = {1: 103, 2: 128, 3: 106, 4: 85, 5: 78}
+====================
+====================
+====================
