@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.8.29)  9 MAY 2013 13:34
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.8.29)  9 MAY 2013 16:16
 entering extended mode
 **FinalReport.tex
-("D:\Documents\Dropbox\INFO 290\FinalReport.tex"
+("D:\Documents\Classes\INFO 290\info290finalproj\docs\FinalReport.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese,
 romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
 sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
 senglishmax, welsh, loaded.
-("D:\Documents\Dropbox\INFO 290\IEEEtran.cls"
+("D:\Documents\Classes\INFO 290\info290finalproj\docs\IEEEtran.cls"
 Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -198,7 +198,7 @@ t \footnotesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\normalfont
 \footnotesize \box \@tempboxa \hfil }\fi \fi \fi .
 \c@ContinuedFloat=\count101
 Package caption Info: float package is loaded.
-) ("D:\Documents\Dropbox\INFO 290\FinalReport.aux"
+) ("D:\Documents\Classes\INFO 290\info290finalproj\docs\FinalReport.aux"
 
 LaTeX Warning: Label `nbresults' multiply defined.
 
@@ -248,14 +248,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 43.
  [1{C:/Users/Reagix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2] [3] [4] ("D:\Documents\Dropbox\INFO 290\FinalReport.aux")
+[2] [3] [4]
+("D:\Documents\Classes\INFO 290\info290finalproj\docs\FinalReport.aux")
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
  3419 strings out of 494045
- 55307 string characters out of 3145966
+ 55505 string characters out of 3145966
  129823 words of memory out of 3000000
  6717 multiletter control sequences out of 15000+200000
  36089 words of font info for 72 fonts, out of 3000000 for 9000
@@ -267,7 +268,7 @@ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
 s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files (
 x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on FinalReport.pdf (4 pages, 63886 bytes).
+Output written on FinalReport.pdf (4 pages, 63953 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

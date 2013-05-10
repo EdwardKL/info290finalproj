@@ -109,6 +109,7 @@ for gram in [1,2,3]:
                 if key in symTable:
                     row[symTable[key]] = int(data[key])
             label = classif.predict(row)
+            log("test data id: "+str(i),f)
             if label == testLabels[i]:
                 matches += 1
                 log("matched: label: "+str(label),f)

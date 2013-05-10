@@ -71,6 +71,7 @@ for gram in [1,2,3]:
         scores = {1:0, 2:0, 3:0, 4:0, 5:0}
         for i in range(len(testLabels)):
             label = classif.classify(testData[i])
+            log("test data id: "+str(i),f)
             if label == testLabels[i]:
                 matches += 1
                 log("matched: label: "+str(label),f)

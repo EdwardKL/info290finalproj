@@ -1,13 +1,13 @@
 import json
 import re
-import pickle
+import pickle, csv
 
 WORD_RE = re.compile(r"[\w']+")
 
 STAR = True
 RESTRICT_TO_RESTAURANTS = False
-USE_GRAM_HASHES = False
-USE_REVIEW_LENGTH = True
+USE_GRAM_HASHES = True
+USE_REVIEW_LENGTH = False
 
 stable = {}
 lookup = []
@@ -81,6 +81,7 @@ for gram in [1,2,3]:
             continue
         print gram
         print size
+        testf = None
         if i == 3:
             scount = {1:0, 2:0, 3:0, 4:0, 5:0}
             count = 0
@@ -88,6 +89,7 @@ for gram in [1,2,3]:
             clabels = []
             sdata = []
             cdata = []            
+            testf = csv.writer(open("test_cases_"+str(gram)+addon+".csv","w"))
         if STAR:
             addon = ""
             if RESTRICT_TO_RESTAURANTS:
@@ -120,6 +122,8 @@ for gram in [1,2,3]:
                             count += 1
                         if USE_REVIEW_LENGTH:
                             csvf.write(str(star)+","+str(feature)+"\n")
+                        if i == 3:
+                            testf.writerow([str(count),str(star),l['text'].encode('utf-8').strip()])
                         slabels.append(star)
                         sdata.append(feature)
                 else:
@@ -142,9 +146,11 @@ for gram in [1,2,3]:
         csvf.close()
     f.close()
     f = open("yelp_academic_dataset.json", "r")
-    
+    sf = open("symTable_"+str(gram)+"gram","w")
+    pickle.dump(stable, sf)
+    sf.close()
         
-
+        
 lookupf = open("data/lookup", "w")
 pickle.dump(lookup, lookupf)
 lookupf.close()

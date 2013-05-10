@@ -28,6 +28,7 @@ def saveAndPredict(file, model, labels, features, lookup=None):
         if (p_labs[i] not in guesses):
             guesses[p_labs[i]] = 0
         guesses[p_labs[i]] += 1
+        log("test data id: "+str(i),f)
     
         if lookup == None:
             log('predicted: '+ repr(p_labs[i]) + '  actual: ' + repr(labels[i]), f)
